@@ -20,7 +20,7 @@
 
 <br/>
 <div align="center">
-    <a href="https://bugstack.cn" style="text-decoration:none"><img src="https://github.com/fuzhengwei/itstack-demo-design/blob/master/pdf.png?raw=true"></a>
+    <a href="https://bugstack.cn" style="text-decoration:none"><img src="https://bugstack.cn/assets/images/pdf.png?raw=true"></a>
 </div>
 <br/> 
 
